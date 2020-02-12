@@ -1,1 +1,1 @@
-#CV Web Page, Using Basci HTML
+#CV Web Page, Using Basic HTML
